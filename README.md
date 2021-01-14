@@ -13,4 +13,4 @@ Langkah-langkah yang saya lakukan adalah sebagai berikut:
 5. Feature Engineering yaitu mengatasi missing value, mengatasi variabel kategorik, dan melakukan penskalaan data
 6. Modelling dengan menggunakan K-Nearest Neighbors (K-NN) sekaligus evalusi model menggunakan nilai akurasi. Akan ada perbandingan beberapa model juga di sini
 
-Terdapat artikel yang saya buat: 
+Terdapat artikel yang saya buat: https://wandalistathea.medium.com/prediksi-ketahanan-hidup-penumpang-kapal-titanic-menggunakan-k-nn-python-74862d03cd46
